@@ -18,3 +18,4 @@ TensorFlow Eager Execution Tutorial and Examples for Beginners
 ### Models
 
 + Multi-Layer Neural Network([Github](https://github.com/CrawlScript/TensorFlow-Eager-Execution-Examples/blob/master/examples/Models/multilayer_neural_network.py))
++ Convolutional Neural Network([Github](https://github.com/CrawlScript/TensorFlow-Eager-Execution-Examples/blob/master/examples/Models/convolutional_neural_network.py))
