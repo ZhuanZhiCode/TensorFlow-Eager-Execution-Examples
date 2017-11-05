@@ -13,7 +13,7 @@ num_class = 10
 dim_hidden = 1024
 
 # 展示信息的间隔
-verbose_interval = 40
+verbose_interval = 100
 
 # 定义各种层
 layer_cnn0 = tf.layers.Conv2D(32, 5, activation = tf.nn.relu) # 卷积层0
